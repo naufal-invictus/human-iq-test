@@ -8,7 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Battle Math Test: Human vs Gorilla",
   description: "Test your math and physics knowledge against a surprisingly intelligent gorilla",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
